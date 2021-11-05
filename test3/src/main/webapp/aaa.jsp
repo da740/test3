@@ -23,8 +23,6 @@
 </script>
 </head>
 <body>
-1버전
-
-aaa브렌치에서 작업
+aaa브렌치에서 생성
 </body>
 </html>
